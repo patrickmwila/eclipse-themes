@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="366" name="Jellybeans porting" modified="2011-02-19 09:42:10" author="0xcoffee">
+    <searchResultIndication color="#D8D8D8" />
+    <filteredSearchResultIndication color="#D8D8D8" />
+    <occurrenceIndication color="#000000" />
+    <writeOccurrenceIndication color="#000000" />
+    <findScope color="#111111" />
+    <deletionIndication color="#D25252" />
+    <sourceHoverBackground color="#000000" />
+    <singleLineComment color="#888888" />
+    <multiLineComment color="#888888" />
+    <commentTaskTag color="#CCDF32" />
+    <javadoc color="#CCDF32" />
+    <javadocLink color="#D9E577" />
+    <javadocTag color="#D9E577" />
+    <javadocKeyword color="#D9E577" />
+    <class color="#D25252" bold="false" underline="false" strikethrough="false" />
+    <interface color="#D197D9" />
+    <method color="#FAD07A" />
+    <methodDeclaration color="#BED6FF" />
+    <bracket color="#D8D8D8" />
+    <number color="#7FB347" />
+    <string color="#99AD6A" />
+    <operator color="#D8D8D8" />
+    <keyword color="#FFB964" bold="false" />
+    <annotation color="#FFFFFF" />
+    <staticMethod color="#BED6FF" />
+    <localVariable color="#79ABFF" />
+    <localVariableDeclaration color="#BED6FF" />
+    <field color="#BED6FF" />
+    <staticField color="#EFC090" />
+    <staticFinalField color="#EFC090" />
+    <deprecatedMember color="#D25252" underline="false" strikethrough="true" />
+    <enum color="#7FB347" />
+    <inheritedMethod color="#BED6FF" />
+    <abstractMethod color="#BED6FF" />
+    <parameterVariable color="#79ABFF" />
+    <typeArgument color="#BFA4A4" />
+    <typeParameter color="#BFA4A4" />
+    <constant color="#CF6A4C" />
+    <background color="#1E1E1E" />
+    <currentLine color="#404040" />
+    <foreground color="#999999" />
+    <lineNumber color="#605958" />
+    <selectionBackground color="#000000" />
+    <selectionForeground color="#D0D0D0" />
+</colorTheme>

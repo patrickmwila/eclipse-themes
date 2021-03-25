@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="9344" name="GitHub Style" modified="2012-07-22 00:09:44" author="Konstantin Đorđević" website="http://sassilization.com">
+    <searchResultIndication color="#CC6633" />
+    <filteredSearchResultIndication color="#CC6633" />
+    <occurrenceIndication color="#CC6633" />
+    <writeOccurrenceIndication color="#CC6633" />
+    <findScope color="#BCADAD" />
+    <deletionIndication color="#D25252" />
+    <sourceHoverBackground color="#EEEEEE" />
+    <singleLineComment color="#d7d3cc" italic="true" />
+    <multiLineComment color="#d5d9e5" italic="true" />
+    <commentTaskTag color="#d7d3cc" bold="true" italic="true" />
+    <javadoc color="#05314d" italic="true" />
+    <javadocLink color="#05314d" italic="true" />
+    <javadocTag color="#05314d" bold="true" italic="true" />
+    <javadocKeyword color="#CC9393" italic="true" />
+    <class color="#ca3349" bold="true" />
+    <interface color="#D197D9" bold="true" />
+    <method color="#797A8A" bold="false" italic="false" />
+    <methodDeclaration color="#4f6d8f" bold="true" italic="false" />
+    <bracket color="#000f6a" />
+    <number color="#d0321f" />
+    <string color="#585545" />
+    <operator color="#5f97a9" />
+    <keyword color="#606060" bold="true" />
+    <annotation color="#808080" />
+    <staticMethod color="#797a8a" italic="true" />
+    <localVariable color="#2b6488" />
+    <localVariableDeclaration color="#ca3349" />
+    <field color="#000F6A" />
+    <staticField color="#000F6A" italic="true" />
+    <staticFinalField color="#000F6A" italic="true" />
+    <deprecatedMember color="#D25252" underline="false" strikethrough="true" />
+    <enum color="#7FB347" />
+    <inheritedMethod color="#2c577c" />
+    <abstractMethod color="#2C577C" />
+    <parameterVariable color="#5c8198" />
+    <typeArgument color="#d07fcd" />
+    <typeParameter color="#d07fcd" />
+    <constant color="#ae25ab" bold="false" italic="false" />
+    <background color="#FFFFFF" />
+    <currentLine color="#FFF7CD" />
+    <foreground color="#B50000" />
+    <lineNumber color="#999999" />
+    <selectionBackground color="#F4FDFF" />
+    <selectionForeground color="#FFFFFF" />
+</colorTheme>

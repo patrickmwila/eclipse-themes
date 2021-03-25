@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="4471" name="The Real Jellybeans" modified="2011-11-12 21:09:16" author="Martin Schuerrer" website="http://www.vim.org/scripts/script.php?script_id=2555">
+    <occurrenceIndication color="#616161" />
+    <findScope color="#191919" />
+    <deletionIndication color="#FF0000" />
+    <singleLineComment color="#888888" italic="false" />
+    <multiLineComment color="#888888" italic="false" />
+    <commentTaskTag color="#808080" bold="true" />
+    <javadoc color="#888888" italic="false" />
+    <javadocLink color="#808080" bold="true" />
+    <javadocTag color="#808080" bold="true" />
+    <javadocKeyword color="#808080" bold="true" />
+    <class color="#447799" />
+    <interface color="#447799" />
+    <method color="#C6B6FE" />
+    <methodDeclaration color="#C6B6FE" />
+    <bracket color="#FFFFFF" />
+    <number color="#477488" />
+    <string color="#477488" />
+    <operator color="#FFFFFF" />
+    <keyword color="#EC691E" />
+    <staticMethod color="#FFFFFF" />
+    <localVariable color="#3C758D" />
+    <localVariableDeclaration color="#357A92" />
+    <field color="#357A8F" />
+    <staticField color="#FFFFFF" />
+    <staticFinalField color="#80FF00" />
+    <deprecatedMember color="#FFFFFF" />
+    <enum color="#408000" />
+    <inheritedMethod color="#E3B735" />
+    <abstractMethod color="#F1C436" />
+    <parameterVariable color="#408000" />
+    <typeArgument color="#D9B0AC" />
+    <typeParameter color="#CDB1AD" />
+    <background color="#151515" />
+    <currentLine color="#222220" />
+    <foreground color="#E8E8D3" />
+    <lineNumber color="#666666" />
+    <selectionBackground color="#B0D0F0" />
+    <selectionForeground color="#E8E8D3" />
+</colorTheme>

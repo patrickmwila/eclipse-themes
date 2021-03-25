@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="53443" name="Ayu - Light" modified="2018-04-21 19:08:51" author="Jay" website="https://jgodara.github.io/">
+    <searchResultIndication color="#EFEFEF" />
+    <filteredSearchResultIndication color="#EFEFEF" />
+    <occurrenceIndication color="#EFEFEF" />
+    <writeOccurrenceIndication color="#EFEFEF" />
+    <findScope color="#BCADAD" />
+    <deletionIndication color="#ABB0B6" underline="false" strikethrough="true" />
+    <sourceHoverBackground color="#EEEEEE" />
+    <singleLineComment color="#ABB0B6" />
+    <multiLineComment color="#ABB0B6" />
+    <commentTaskTag color="#ABB0B6" bold="true" />
+    <javadoc color="#ABB0B6" />
+    <javadocLink color="#ABB0B6" italic="true" underline="true" strikethrough="false" />
+    <javadocTag color="#ABB0B6" bold="true" italic="true" />
+    <javadocKeyword color="#ABB0B6" bold="true" />
+    <class color="#399EE6" />
+    <interface color="#399EE6" italic="true" />
+    <method color="#F29718" />
+    <methodDeclaration color="#F29718" />
+    <bracket color="#ED9366" />
+    <number color="#E6B673" />
+    <string color="#86B300" />
+    <operator color="#ED9366" />
+    <keyword color="#FA6E32" />
+    <annotation color="#4CBF99" />
+    <staticMethod color="#A37ACC" italic="true" />
+    <localVariable color="#6E7580" />
+    <localVariableDeclaration color="#6E7580" />
+    <field color="#6E7580" />
+    <staticField color="#6E7580" italic="true" underline="false" strikethrough="false" />
+    <staticFinalField color="#A37ACC" italic="true" />
+    <deprecatedMember color="#ABB0B6" underline="false" strikethrough="true" />
+    <enum color="#4CBF99" />
+    <inheritedMethod color="#F29718" italic="true" />
+    <abstractMethod color="#F29718" bold="true" italic="true" />
+    <parameterVariable color="#4CBF99" />
+    <typeArgument color="#55B4D4" bold="false" />
+    <typeParameter color="#55B4D4" bold="false" />
+    <constant color="#A37ACC" bold="true" />
+    <background color="#FAFAFA" />
+    <currentLine color="#F2F2F2" />
+    <foreground color="#6E7580" />
+    <lineNumber color="#999999" />
+    <selectionBackground color="#F0EEE4" />
+    <selectionForeground color="#6E7580" />
+</colorTheme>

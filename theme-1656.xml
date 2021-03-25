@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="1656" name="light eclipse" modified="2011-05-11 14:53:31" author="misiek">
+    <searchResultIndication color="#CECCF7" />
+    <filteredSearchResultIndication color="#EFEFEF" />
+    <occurrenceIndication color="#00FF00" />
+    <writeOccurrenceIndication color="#F0D8A8" />
+    <findScope color="#B9B0B4" />
+    <deletionIndication color="#AACCFF" />
+    <sourceHoverBackground color="#EEEEEE" />
+    <singleLineComment color="#3F7F5F" italic="true" />
+    <multiLineComment color="#3F7F5F" italic="true" />
+    <commentTaskTag color="#7F9FBF" bold="true" underline="true" strikethrough="false" />
+    <javadoc color="#3F5FBF" italic="true" />
+    <javadocLink color="#3F3FBF" italic="true" />
+    <javadocTag color="#7F9FBF" bold="true" />
+    <javadocKeyword color="#7F7F9F" />
+    <class color="#005032" bold="true" />
+    <interface color="#FF0000" />
+    <method color="#0D6400" bold="true" />
+    <methodDeclaration color="#0D6400" bold="true" />
+    <bracket color="#000066" />
+    <number color="#FF0000" bold="true" />
+    <string color="#1E90FF" bold="true" />
+    <operator color="#333333" />
+    <keyword color="#7F0055" bold="true" />
+    <annotation color="#8B6914" />
+    <staticMethod color="#0000FF" italic="true" />
+    <localVariable color="#5C8198" />
+    <localVariableDeclaration color="#5c8198" />
+    <field color="#0000FF" />
+    <staticField color="#0000C0" italic="false" />
+    <staticFinalField color="#0000C0" italic="true" underline="false" strikethrough="false" />
+    <deprecatedMember color="#A020F0" underline="false" strikethrough="true" />
+    <enum color="#644632" bold="true" />
+    <inheritedMethod color="#000000" underline="true" strikethrough="false" />
+    <abstractMethod color="#FF0000" italic="true" />
+    <parameterVariable color="#BC8013" bold="true" />
+    <typeArgument color="#644632" bold="true" />
+    <typeParameter color="#644632" bold="true" />
+    <constant color="#0000FF" bold="false" />
+    <background color="#ffffff" />
+    <currentLine color="#E8F2FE" />
+    <foreground color="#000000" />
+    <lineNumber color="#666666" />
+    <selectionBackground color="#Efefff" />
+    <selectionForeground color="#000066" />
+</colorTheme>

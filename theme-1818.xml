@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="1818" name="my vim dark" modified="2011-06-09 09:37:26" author="shengy" website="t.sina.com.cn/ewings">
+    <searchResultIndication color="#555500" />
+    <filteredSearchResultIndication color="#555500" />
+    <occurrenceIndication color="#005555" />
+    <writeOccurrenceIndication color="#005555" />
+    <findScope color="#222222" />
+    <deletionIndication color="#FF0000" underline="false" strikethrough="true" />
+    <sourceHoverBackground color="#000000" />
+    <singleLineComment color="#00FFFF" />
+    <multiLineComment color="#00FFFF" />
+    <commentTaskTag color="#00FFFF" bold="true" />
+    <javadoc color="#00FFFF" />
+    <javadocLink color="#00FFFF" underline="true" strikethrough="false" />
+    <javadocTag color="#00FFFF" bold="true" />
+    <javadocKeyword color="#00FFFF" bold="true" />
+    <class color="#00FF00" />
+    <interface color="#00FF00" />
+    <method color="#C0C0C0" />
+    <methodDeclaration color="#C0C0C0" />
+    <bracket color="#C0C0C0" />
+    <number color="#FF00FF" />
+    <string color="#FF00FF" />
+    <operator color="#C0C0C0" />
+    <keyword color="#FFFF00" />
+    <annotation color="#8080FF" />
+    <staticMethod color="#C0C0C0" />
+    <localVariable color="#FF8000" />
+    <localVariableDeclaration color="#FF8000" />
+    <field color="#FF8000" />
+    <staticField color="#FF8000" />
+    <staticFinalField color="#FF8000" />
+    <deprecatedMember color="#FF0000" underline="false" strikethrough="true" />
+    <enum color="#00FF00" />
+    <inheritedMethod color="#C0C0C0" />
+    <abstractMethod color="#C0C0C0" />
+    <parameterVariable color="#FF8000" />
+    <typeArgument color="#FF00FF" />
+    <typeParameter color="#FF00FF" />
+    <constant color="#8080FF" />
+    <background color="#000000" />
+    <currentLine color="#000000" />
+    <foreground color="#C0C0C0" />
+    <lineNumber color="#C0C0C0" />
+    <selectionBackground color="#C0C0C0" />
+    <selectionForeground color="#000000" />
+</colorTheme>

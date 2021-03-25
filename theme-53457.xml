@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="53457" name="Gruvbox Dark Hard" modified="2018-04-23 13:04:43" author="Omlettwender">
+    <searchResultIndication color="#1D2021" />
+    <filteredSearchResultIndication color="#1D2021" />
+    <occurrenceIndication color="#1D2021" />
+    <writeOccurrenceIndication color="#1D2021" />
+    <findScope color="#111111" />
+    <deletionIndication color="#CC241D" />
+    <sourceHoverBackground color="#BDAE93" />
+    <singleLineComment color="#7C6F64" italic="false" />
+    <multiLineComment color="#7C6F64" italic="false" />
+    <commentTaskTag color="#CC241D" italic="false" />
+    <javadoc color="#7C6F64" italic="false" />
+    <javadocLink color="#458588" italic="false" />
+    <javadocTag color="#FB4934" italic="false" />
+    <javadocKeyword color="#D3869B" italic="false" />
+    <class color="#FE8019" bold="false" underline="false" strikethrough="false" />
+    <interface color="#D3869B" />
+    <method color="#D65D0E" />
+    <methodDeclaration color="#FE8019" />
+    <bracket color="#BDAE93" bold="false" italic="false" />
+    <number color="#B8BB26" />
+    <string color="#D79921" />
+    <operator color="#BDAE93" />
+    <keyword color="#D65D0E" bold="false" />
+    <annotation color="#EBDBB2" />
+    <staticMethod color="#D65D0E" />
+    <localVariable color="#BDAE93" />
+    <localVariableDeclaration color="#BDAE93" />
+    <field color="#BDAE93" />
+    <staticField color="#BDAE93" />
+    <staticFinalField color="#BDAE93" />
+    <deprecatedMember color="#CC241D" underline="false" strikethrough="true" />
+    <enum color="#98971A" />
+    <inheritedMethod color="#BDAE93" />
+    <abstractMethod color="#BDAE93" />
+    <parameterVariable color="#BDAE93" />
+    <typeArgument color="#FE8019" />
+    <typeParameter color="#FE8019" />
+    <constant color="#BDAE93" />
+    <background color="#1D2021" />
+    <currentLine color="#282828" />
+    <foreground color="#EBDBB2" />
+    <lineNumber color="#7C6F64" />
+    <selectionBackground color="#000000" />
+    <selectionForeground color="#D0D0D0" />
+</colorTheme>
